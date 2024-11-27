@@ -1,6 +1,6 @@
 .logo {
-  width:100px;
-  height:100px;
+  width:200px;
+  height:200px;
 }
 header{
   text-align:center;
@@ -12,8 +12,29 @@ nav{
    background-color: red;
 }
 .contacts {
-   color: red;
+   color: black;
    background-color: white;
    border-radius:  10px ;
    padding: 10px 25px;
+}
+main img{
+  width:700px;
+  height:400px
+}
+footer p {
+    background-color: #ECDB9E;
+    padding: 10px;
+    font-size: 20px;
+
+}
+
+header a {
+    color: black;
+    background-color: white;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
 }
