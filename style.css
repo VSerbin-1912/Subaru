@@ -1,15 +1,22 @@
 .logo {
   width:200px;
   height:200px;
+  
 }
 header{
   text-align:center;
+  padding: 20px;
+  border-radius: 10px;
+  background-color:  rgb(235, 252, 7);
+  margin-bottom: 20px;
 }
 nav{
    margin: 20px 0px;
    padding: 20px 0px;
    text-align: center;
-   background-color: red;
+   background-color: red; 
+   border-radius: 10px;
+   margin-inline: 20px;
 }
 .contacts {
    color: black;
@@ -37,4 +44,23 @@ header a {
     border-radius: 10px;
     padding: 5px;
     margin: 10px;
+}
+p {
+font-size: 20px
+
+} 
+main{
+  background-color: rgb(61, 248, 4);
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+h2{
+  text-align:center;
+  font-size: 50px
+}
+footer{
+  background-color: blueviolet;
+  padding: 20px;
+  border-radius: 10px;
 }
